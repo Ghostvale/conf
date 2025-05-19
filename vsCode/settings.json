@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "editor.fontFamily": "Maple Mono NF",
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": "'calt', 'zero', 'cv03'",
+    "editor.guides.bracketPairs": true,
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "workbench.settings.applyToAllProfiles": [
+        
+
+    ],
+    "workbench.iconTheme": "material-icon-theme"
+}
